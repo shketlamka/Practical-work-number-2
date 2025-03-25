@@ -10,7 +10,7 @@ namespace ConsoleApp4
     public class Program
     {
         /// <summary>
-        /// Соломатин Ярослав П23-2.2
+        /// Кротов Кирилл П23-2.2 П23-2.2
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
